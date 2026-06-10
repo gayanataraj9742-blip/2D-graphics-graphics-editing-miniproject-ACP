@@ -1,0 +1,89 @@
+Prompt 1:
+Generate a 2D Graphics Editor in C that can draw basic shapes such as lines, rectangles, circles, and triangles using a 2D character array.
+
+Response 1:
+Generated C code for a 2D graphics editor with functions to draw and display shapes.
+
+--------------------------------------------------
+
+Prompt 2:
+Add functionality to modify and delete shapes in the 2D Graphics Editor.
+
+Response 2:
+Added shape modification and deletion features to the project.
+
+--------------------------------------------------
+
+Prompt 3:
+Explain the functions used in the 2D Graphics Editor code.
+
+Response 3:
+Provided explanations for canvas initialization, drawing functions, display functions, and shape management functions.
+
+--------------------------------------------------
+
+Prompt 4:
+Create a README file for the 2D Graphics Editor project.
+
+Response 4:
+Generated a README containing project description, features, language used, and usage information.
+
+--------------------------------------------------
+
+Prompt 5:
+How do I push my project code to GitHub from VS Code?
+
+Response 5:
+Provided Git commands:
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+--------------------------------------------------
+
+Prompt 6:
+How do I check whether my code has been uploaded successfully to GitHub?
+
+Response 6:
+Explained how to open the repository on GitHub and verify the uploaded files.
+
+--------------------------------------------------
+
+Prompt 7:
+How do I remove canvas.exe from the GitHub repository?
+
+Response 7:
+Provided commands:
+git rm canvas.exe
+git commit -m "Removed executable file"
+git push
+
+--------------------------------------------------
+
+Prompt 8:
+How do I create a prompt.txt file and upload it to GitHub?
+
+Response 8:
+Explained how to create prompt.txt in VS Code, save it, commit it, and push it to GitHub.
+
+--------------------------------------------------
+
+Prompt 9:
+How do I create a README.md file for the project?
+
+Response 9:
+Provided README content describing the project features:
+- Draw Line
+- Draw Rectangle
+- Draw Circle
+- Draw Triangle
+- Modify/Delete Shapes
+- Display Canvas
+
+--------------------------------------------------
+
+Prompt 10:
+How do I verify that the README and source code are visible on GitHub?
+
+Response 10:
+Explained how to view README.md and canvas1.c directly from the GitHub repository page.
